@@ -3,18 +3,18 @@ int main()
 {
     int a;
     long long int b;
-    char chr;
+    char ch;
     float d;
     double e;
     scanf("%d", &a);
     scanf("%lld", &b);
-    scanf("%c", &chr);
+    scanf("%c", &ch);
     scanf("%f", &d);
     scanf("%lf", &e);
 
     printf("%d\n", a);
     printf("%lld\n", b);
-    printf("%c\n", chr);
+    printf("%c\n", ch);
     printf("%f\n", d);
     printf("%lf\n", e);
 
